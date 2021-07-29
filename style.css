@@ -1,0 +1,66 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    width: 100%;
+}
+
+ header{
+
+padding-left: 6%;
+padding-bottom: 30px;
+background-color: #264653;
+color: white;
+}
+header p{ 
+    color: whitesmoke;
+   
+}
+header h1{
+    font-weight: 700;
+    margin: 20px 0;
+}
+.header-left-content{
+    width: 40%;
+    padding-top: 100px ;
+    padding-bottom: 30px;
+}
+.purchase-btn{
+    margin-top: 20px;
+    border: none;
+    color: white;
+    background-color: #E76F51;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+.header-right-content {
+    width: 40%;
+}
+
+.header-right-content img{
+    width: 80%;
+}
+#featured-bikes p{
+    color:#E76F51 ;
+   }
+   .gray-img{
+      
+           -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+           filter: grayscale(100%);
+       
+   } 
+   #happy-clients h1{
+    font-weight: 700 ;
+}
+#happy-clients span{
+ color:#E76F51 ;
+}
+.card-container img{
+ width: 150px;
+ margin: auto;
+ padding-top: 50px ;
+}
+
+.fa-star{
+ color: #E76F51;
+} 
